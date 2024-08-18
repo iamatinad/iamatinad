@@ -19,14 +19,16 @@ Finance and tech enthusiast with a passion for learning and speaking multiple la
 ## Connect with Me
 
 <a href="https://github.com/iamatinad">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40" style="filter: none; color: #333;">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30">
 </a>
 <a href="https://www.linkedin.com/in/danita-lamptey/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40" style="color:#0054D1;">
+  <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30">
 </a>
 <a href="https://portfolio-danitalamptey.vercel.app/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="Website" height="40" style="filter: none; color: #000;">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=icloud&logoColor=white" alt="Portfolio" height="30">
 </a>
+
+
 
 ## Fun Fact
 ⚡ I speak Français!
