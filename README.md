@@ -1,4 +1,4 @@
-![Front-end Development](https://github.com/iamatinad/iamatinad/blob/main/ati.d.jpg)
+![Front-end Development](https://github.com/iamatinad/iamatinad/blob/main/banner-ati.jpg)
 
 # Danita Lamptey
 Finance and tech enthusiast with a passion for learning and speaking multiple languages.
