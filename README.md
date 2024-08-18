@@ -29,6 +29,10 @@ Finance and tech enthusiast with a passion for learning and speaking multiple la
 </a>
 
 
+📫 How to reach me lamptey.danita@gmail.com
+
+
+
 
 ## Fun Fact
 ⚡ I speak Français!
