@@ -1,3 +1,5 @@
+![Front-end Development](https://github.com/iamatinad/danitalamptey/blob/main/banner-ati.jpg)
+
 # Danita Lamptey
 Finance and tech enthusiast with a passion for learning and speaking multiple languages.
 
