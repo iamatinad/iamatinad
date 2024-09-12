@@ -8,9 +8,7 @@ Finance and tech enthusiast with a passion for learning and speaking multiple la
 - 💻 **HTML, CSS, JavaScript**
 - 📊 **Excel, SQL, Tableau**
 
-## Project Showcase
 
-<img src="https://github.com/iamatinad/iamatinad/blob/main/atiblog.gif" width="512" alt="Project GIF">
 
 ## GitHub Stats
 
