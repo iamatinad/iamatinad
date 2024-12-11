@@ -4,9 +4,11 @@
 Finance and tech enthusiast with a passion for learning and speaking multiple languages.
 
 ## Skills and Experience
-- ⚛ **React** 
-- 💻 **HTML, CSS, JavaScript**
+
 - 📊 **Excel, SQL, Tableau**
+- 💻 **HTML, CSS, JavaScript**
+- ⚛ **React** 
+
 
 ## Project Showcase
 
