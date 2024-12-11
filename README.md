@@ -7,7 +7,8 @@ Finance and tech enthusiast with a passion for learning and speaking multiple la
 
 - 📊 **Excel, SQL, Tableau**
 - 💻 **HTML, CSS, JavaScript**
-- ⚛ **React** 
+- ⚛  **React** 
+- 🗂️ **MongoDb**
 
 
 ## Project Showcase
