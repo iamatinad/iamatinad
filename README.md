@@ -3,12 +3,25 @@
 # Danita Lamptey
 Finance and tech enthusiast with a passion for learning and speaking multiple languages.
 
-## Skills and Experience
+## Skills and Tools
 
-- 📊 **Excel, SQL, Tableau**
-- 💻 **HTML, CSS, JavaScript**
-- ⚛  **React** 
-- 🗂️ **MongoDb**
+### 📊 **Business Intelligence & Data Analytics**
+- **Excel** - Spreadsheet software for data analysis and manipulation.
+- **SQL** - Query language for managing and manipulating databases.
+- **Google Cloud BigQuery** - Data analysis and storage with Google’s scalable and serverless analytics data warehouse.
+- **Tableau** - Data visualization software for creating insightful and interactive reports.
+- **Looker Studio** - Data visualization and reporting tool for creating interactive dashboards and reports.
+
+### 💻 **Web Development**
+- **HTML, CSS, JavaScript** - Web development skills for creating dynamic and responsive websites.
+- **React** - Frontend framework for building user interfaces.
+
+### 🗂️ **Databases**
+- **MongoDB** - NoSQL database for scalable and flexible data storage.
+
+### 📜 **Certification**
+- **Google Digital Leader Certification** - Google Cloud and digital transformation expertise.
+
 
 
 ## Project Showcase
@@ -34,7 +47,7 @@ Finance and tech enthusiast with a passion for learning and speaking multiple la
 </a>
 
 
-📫  email: lamptey.danita@gmail.com
+📫  Email: lamptey.danita@gmail.com
 
 
 
